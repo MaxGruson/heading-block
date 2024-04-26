@@ -4,7 +4,7 @@
  * Description:       A simple heading block with optional subheading
  * Requires at least: 6.1
  * Requires PHP:      7.0
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            <a href="https://max.gruson.studio" target="_blank">Max Gruson</a>
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
