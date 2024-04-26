@@ -1,0 +1,26 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "maxgruson/heading-block",
+	"version": "0.1.0",
+	"title": "Koptekst",
+	"category": "text",
+	"icon": "heading",
+	"description": "Een kop met optionele onderkop.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+  "attributes": {
+		"heading": {
+			"type": "string"
+		},
+		"subheading": {
+			"type": "string"
+		}
+	},
+	"textdomain": "heading-block",
+	"editorScript": "file:./index.js",
+	"style": "file:./style-index.css",
+	"render": "file:./render.php"
+}
