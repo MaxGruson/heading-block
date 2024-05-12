@@ -1,12 +1,12 @@
 <?php
 /**
- * CTA block template.
+ * Heading block template.
  *
  * @param   array $attributes - A clean associative array of block attributes.
  * @param   array $block - All the block settings and attributes.
  * @param   string $content - The block inner HTML (usually empty unless using inner blocks).
  *
- * @package maxgruson/cta-block
+ * @package maxgruson/heading-block
  */
 
 $heading    = $attributes['heading'] ?? '';
